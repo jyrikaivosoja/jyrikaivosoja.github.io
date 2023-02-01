@@ -1,0 +1,1 @@
+# jyrikaivosoja.github.io

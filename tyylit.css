@@ -1,0 +1,33 @@
+
+
+h1{
+    color: red;
+    background-color: black;
+}
+h2{
+    color: blue;
+}
+body{
+    background-color: grey;
+}
+.ensm{
+    color: aliceblue;
+    background-color: grey;
+}
+
+#elements{
+    color: green;
+}
+
+#elements2
+{
+    background-color: blue;
+}
+
+.elements{
+    color: green;
+}
+
+.elements2{
+    background-color: blue;
+}
